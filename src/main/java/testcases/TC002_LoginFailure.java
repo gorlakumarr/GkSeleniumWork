@@ -1,7 +1,8 @@
 package testcases;
 
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
 import pages.LoginPage;
 import wrappers.LeafTapsWrappers;
 
